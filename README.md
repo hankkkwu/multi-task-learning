@@ -13,3 +13,7 @@ Here is the result on video1:
 Here is the result on video2:
 
 ![multi-taks2](https://github.com/hankkkwu/multi-task-learning/blob/main/outputs/campus.gif)
+
+
+# For training the Multi-task learning
+See the training folder
